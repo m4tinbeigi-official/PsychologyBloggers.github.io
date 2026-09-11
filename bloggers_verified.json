@@ -1,0 +1,42 @@
+[
+  {
+    "name": "دکتر مجتبی شکوری",
+    "handle": "mojtabashakoori",
+    "category": "توسعه فردی و کتاب‌درمانی",
+    "role": "روایت‌گر روانشناسی",
+    "bio": "مواجهه با رنج، پذیرش، خودآگاهی و بازخوانی متون کهن ادبی و روانشناختی.",
+    "avatar": "avatars/mojtabashakoori.jpg"
+  },
+  {
+    "name": "دکتر علیرضا شیری",
+    "handle": "alirezashiri",
+    "category": "روانشناسی تحلیلی یونگ",
+    "role": "مدرس خودشناسی",
+    "bio": "مهارت‌های ارتباطی، رابطه عاطفی سالم و تحلیل شخصیت یونگی.",
+    "avatar": "avatars/alirezashiri.jpg"
+  },
+  {
+    "name": "دکتر آذرخش مکری",
+    "handle": "azarakhsh_mokri",
+    "category": "روانپزشکی و شناخت",
+    "role": "دانشیار دانشگاه تهران",
+    "bio": "تحلیل علمی رفتار، انگیزه، تصمیم‌گیری و مغز انسان.",
+    "avatar": "avatars/azarakhsh_mokri.jpg"
+  },
+  {
+    "name": "دکتر علی صاحبی",
+    "handle": "dr_ali_sahebi",
+    "category": "تئوری انتخاب و ACT",
+    "role": "مدرس واقعیت‌درمانی",
+    "bio": "نویسنده کتب روانشناسی، تئوری انتخاب و درمان مبتنی بر پذیرش و تعهد.",
+    "avatar": "avatars/dr_ali_sahebi.jpg"
+  },
+  {
+    "name": "دکتر ایمان فانی",
+    "handle": "imanfani",
+    "category": "فلسفه و روانشناسی",
+    "role": "روان‌درمانگر و فلسفه‌پژوه",
+    "bio": "پروژه مدرسه زندگی، بررسی اگزیستانسیالیسم و خودکاوی عمیق.",
+    "avatar": "avatars/imanfani.jpg"
+  }
+]
